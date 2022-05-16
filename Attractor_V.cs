@@ -41,7 +41,7 @@ namespace SFML
         private int record_flag;
         private List<int> record_id;
 
-        public Attractor_SIMD_V(float[,] array, attractor_constuctor attractorConstuctor)
+        public Attractor_V(float[,] array, attractor_constuctor attractorConstuctor)
         {
             update_camera_axis();
             record_flag = 0;
