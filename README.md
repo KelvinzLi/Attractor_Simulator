@@ -1,6 +1,8 @@
 # Attractor_Simulator
  Simulating Particle Motion in Chaotic Attractor
 
+ Visualized with SFML with an interactive interface to view the attractor
+
 
 
 
